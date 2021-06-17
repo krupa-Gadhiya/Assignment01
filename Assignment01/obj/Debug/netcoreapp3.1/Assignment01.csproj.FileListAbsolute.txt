@@ -11,3 +11,11 @@ C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\obj\Debug\net
 C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\obj\Debug\netcoreapp3.1\Assignment01.dll
 C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\obj\Debug\netcoreapp3.1\Assignment01.pdb
 C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\obj\Debug\netcoreapp3.1\Assignment01.genruntimeconfig.cache
+C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\HIREN GADHIYA\source\repos\8040\Assignment01\Assignment01\obj\Debug\netcoreapp3.1\Assignment01.csproj.CopyComplete

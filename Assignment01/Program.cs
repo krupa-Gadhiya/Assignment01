@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Assignment01
 {
     class Program
@@ -13,7 +12,7 @@ namespace Assignment01
             length = ValidInput("Length");
             width = ValidInput("width");
 
-            Console.WriteLine($"Your lenght is {length} and width is {width}.\n");
+            Console.WriteLine($"Rectangle lenght is {length} and width is {width}.\n");
             Rectangle customRect = new Rectangle(length, width);
             r = customRect;
 
@@ -26,14 +25,14 @@ namespace Assignment01
                 switch (choice)
                 {
                     case 1:
-                        Console.WriteLine($"Length is: {r.GetLength()}\n");
+                        Console.WriteLine($"Rectangle Length is: {r.GetLength()}\n");
                         break;
                     case 2:
                         result = ValidInput("length");
                         r.SetLength(result);
                         break;
                     case 3:
-                        Console.WriteLine($"width is: {r.GetWidth()}\n");
+                        Console.WriteLine($"Rectangle width is: {r.GetWidth()}\n");
                         break;
                     case 4:
                         result = ValidInput("width");
@@ -61,15 +60,15 @@ namespace Assignment01
 
             while (validSelection == false)
             {
-                Console.WriteLine("1 = Get Rectangle Length");
-                Console.WriteLine("2 = Change Rectangle Length");
-                Console.WriteLine("3 = Get Rectangle  width");
-                Console.WriteLine("4 = Change Rectangle width");
-                Console.WriteLine("5 = Get Rectangle Perimeter");
-                Console.WriteLine("6 = Get Rectangle Area");
-                Console.WriteLine("7 = Exit\n");
+                Console.WriteLine("1.Get Rectangle Length");
+                Console.WriteLine("2.Change Rectangle Length");
+                Console.WriteLine("3.Get Rectanglewidth");
+                Console.WriteLine("4.Change Rectangle width");
+                Console.WriteLine("5.Get Rectangle Perimeter");
+                Console.WriteLine("6.Get Rectangle Area");
+                Console.WriteLine("7.Exit\n");
 
-                Console.WriteLine("Please select an option :\n");
+                Console.WriteLine("Please select an option:\n");
                 takeInput = Console.ReadLine();
                 takeInpuInt = int.Parse(takeInput);
 
@@ -94,7 +93,7 @@ namespace Assignment01
 
             while (isValid == false)
             {
-                Console.WriteLine($"Please enter the  {userNumber} :");
+                Console.WriteLine($"Please enter the {userNumber} :");
                 string takeInput = Console.ReadLine();
                 valiDate = int.Parse(takeInput);
 
@@ -105,7 +104,7 @@ namespace Assignment01
                 else
                 {
                     isValid = true;
-                    Console.WriteLine($"Your {userNumber} is: {valiDate}\n");
+                    Console.WriteLine($"Rectangle {userNumber} is: {valiDate}\n");
                 }
             }
 

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3AJJOwejhslySCY1qcVj8W6GRT8PPTGJfuFM3wOGzRFnv5bY4B+AXGS44B6O3ODniRjaP5w2pj8wUcn6O/1WSg==",
+  "dgSpecHash": "USDQoeigjGH3OSe41vDnWhqRhaW3trTLh/exFbhWzs+996H0+klZrcqX2rvYuVZB/2mjfKfLkbrt1bRyFLerxg==",
   "success": true,
   "projectFilePath": "C:\\Users\\HIREN GADHIYA\\source\\repos\\8040\\Assignment01\\Assignment01\\Assignment01.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HIREN GADHIYA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HIREN GADHIYA\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\HIREN GADHIYA\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\HIREN GADHIYA\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
